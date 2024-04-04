@@ -1,0 +1,13 @@
+---
+title:
+  - type: main
+    text: The Book of Lieh-tzǔ
+  - type: abstract
+    text: A Classic of the Tao
+creator:
+  - role: author
+    text: Lieh-tzǔ
+  - role: translator
+    text: A.C. Graham
+rights: © 1960, 1990 A.C. Graham
+...
